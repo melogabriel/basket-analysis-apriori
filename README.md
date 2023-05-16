@@ -13,7 +13,7 @@ This code requires the following packages:
 ## Usage
 
 1. Download the `perfumes.xlsx` file or replace it with your own dataset.
-2. Run the `association_analysis.py` script.
+2. Run the `Market_Basket_Analysis.ipynb` jupyter notebook.
 3. The results will be saved to an Excel file named `product_categories_correlations.xlsx`.
 
 ## Results
