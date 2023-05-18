@@ -9,6 +9,7 @@ This code requires the following packages:
 - `numpy`
 - `pandas`
 - `mlxtend`
+- `apriori`
 
 ## Usage
 
