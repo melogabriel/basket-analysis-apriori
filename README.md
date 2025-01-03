@@ -23,11 +23,11 @@ The results of the association analysis are saved in the `product_categories_cor
 
 In addition, a scatter plot is generated showing the top 10 associations based on lift. The plot shows the antecedents and consequents of each association, with the lift value represented by the color of each point.
 
-Also a Looker Studio Dashboard: [Dashboard Name](https://lookerstudio.google.com/embed/reporting/d92b4e7b-0d64-4ebc-8fa9-eb30fa566ed4/page/CZCCD)
+Also a Looker Studio Dashboard: 
 
-This interactive dashboard provides comprehensive insights into dataset products correlations. 
+![Looker Studio Report](lookerstudio-dashboard.png)
 
-[![Looker Studio Report](path/to/screenshot.png)](https://lookerstudio.google.com/embed/reporting/d92b4e7b-0d64-4ebc-8fa9-eb30fa566ed4/page/CZCCD)
+This interactive dashboard provides comprehensive insights into dataset products correlations. As you can see from the basic example given: people who buy shampoo tend to also buy conditioner.
 
 ## Future Improvements
 
