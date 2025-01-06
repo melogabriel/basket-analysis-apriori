@@ -25,7 +25,7 @@ In addition, a scatter plot is generated showing the top 10 associations based o
 
 Also a Looker Studio Dashboard: 
 
-![Looker Studio Report](lookerstudio-dashboard.png)
+![Looker Studio Report](product-correlations-dashboard.gif)
 
 This interactive dashboard provides comprehensive insights into dataset products correlations. As you can see from the basic example given: people who buy shampoo tend to also buy conditioner.
 
