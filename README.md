@@ -1,6 +1,6 @@
 # Basket Analysis Apriori
 
-This code performs association analysis on a sales dataset, using the Apriori algorithm. The dataset is loaded from an Excel file, and a basket of items is created for each transaction. The Apriori algorithm is then applied to find frequent itemsets and association rules based on the support, confidence, and lift metrics. Finally, the top 10 associations based on lift are plotted in a scatter plot, and the results are saved to an Excel file.
+This project performs association analysis on a sales dataset, using the Apriori algorithm. The dataset is loaded from an Excel file, and a basket of items is created for each transaction. The Apriori algorithm is then applied to find frequent itemsets and association rules based on the support, confidence, and lift metrics. Finally, the top 10 associations based on lift are plotted in a scatter plot, and the results are saved to an Excel file.
 
 ## Installation
 
